@@ -1,4 +1,10 @@
 # README
+## Installation
+- Einfach von https://obsidian.rocks/ herunterladen
+- Repo clonen
+- Projekt in Obsidian öffnen
+
+
 Überblick... Startseite...
 Übersicht Pläne, organisatorisches, etc...
 

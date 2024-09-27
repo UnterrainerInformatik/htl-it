@@ -1,4 +1,4 @@
-# Team Cloud
+# Cloud
 ## Verantwortlicher
 - [[Unterrainer Gerald]]
 ## Hardware

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "servers/Cloud - Ingres Server.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "servers/Cloud - Ingres Server.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "servers/Cloud - Ingres Server.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "servers/Cloud - Ingres Server.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,20 +148,38 @@
   },
   "active": "4b659d660ae2937b",
   "lastOpenFiles": [
-    "README.md",
-    "teams/Team Cloud.md",
-    "contacts/Aberger Christian.md",
-    "contacts/Tumfart Johannes.md",
-    "contacts/Brückner Andreas.md",
-    "contacts/Unterrainer Gerald.md",
-    "servers/Cloud - Ingres Server.md",
-    "servers/HTL - Fileserver.md",
-    "IP ranges/10.md",
-    "IP ranges/192.md",
     "Notfallplan.md",
+    "servers-devices/cloud - node - jupiter---machen.md",
+    "servers-devices/cloud - node - mars.md",
+    "servers-devices/cloud - node - venus.md",
+    "servers-devices/cloud - api - moon.md",
+    "templates/device.md",
+    "templates/server.md",
+    "servers-devices/servers-devices.md",
+    "servers-devices/cloud - haproxy - saturn.md",
+    "servers-devices/cloud - loadbalancer1 - vela.md",
+    "servers-devices/cloud - loadbalancer2 - crab.md",
+    "servers-devices/htl - fileserver - zebra.md",
+    "teams/HTL.md",
+    "templates/team.md",
+    "teams/Cloud.md",
+    "contacts/Himmelbauer Thomas.md",
+    "projects/cloud-kubernetes/Serverliste.md",
+    "IP ranges/IP ranges.md",
+    "projects/cloud-kubernetes/Projektübersicht.md",
+    "contacts/contacts.md",
+    "teams/teams.md",
+    "projects/projects.md",
+    "templates/contact.md",
+    "templates/IP Range.md",
+    "templates/Projektübersicht.md",
+    "IP ranges/10.md",
+    "templates",
+    "projects/cloud-kubernetes",
+    "projects",
     "teams",
     "contacts",
     "IP ranges",
-    "servers"
+    "servers-devices"
   ]
 }
