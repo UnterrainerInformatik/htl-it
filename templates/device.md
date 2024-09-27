@@ -10,7 +10,8 @@
 |         | external / internal / ... |
 ## Hardware
 
-| Field | Value          |
-| ----- | -------------- |
-| Type  | HP Proliant... |
+| Field      | Value       |
+| ---------- | ----------- |
+| Hersteller | HP          |
+| Type       | Proliant... |
 ## Manual
