@@ -1,0 +1,11 @@
+{
+  "server_url": "https://plantuml.unterrainer.info/plantuml",
+  "header": "",
+  "debounce": 3,
+  "localJar": "",
+  "javaPath": "java",
+  "dotPath": "dot",
+  "defaultProcessor": "png",
+  "cache": 60,
+  "exportPath": ""
+}
